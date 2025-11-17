@@ -11,7 +11,6 @@
 
 ### Voltron
 - **[Kresh the Bloodbraided](https://scryfall.com/search?q=kresh+bloodbraided)** (BRG)
-- **[Lucius the Eternal](https://scryfall.com/search?q=lucius+eternal)** (WB)
 - **[Stangg, Echo Warrior](https://scryfall.com/search?q=stangg+echo+warrior)** (RG)
 
 ### Life Gain
